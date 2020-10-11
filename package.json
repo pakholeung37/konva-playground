@@ -1,0 +1,12 @@
+{
+  "name": "konva-playground",
+  "version": "0.0.1",
+  "description": "konva-playground",
+  "scripts": {},
+  "author": "pakholeung",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "eslint": "^7.11.0"
+  }
+}
